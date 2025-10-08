@@ -10,20 +10,20 @@ Unlike traditional EDA that focuses on static relationships, this analysis looks
 
 ## Table of Contents
 - [Project Overview](#project-overview)
-- [🧰Tools & Libraries](#tools--libraries)
+- [Tools & Libraries](#tools--libraries)
 - [Data Cleaning & Preparation](#data-cleaning--preparation)
-- [📈Time Series Analysis](#time-series-analysis)
+- [Time Series Analysis](#time-series-analysis)
   - [Monthly and Yearly Trends](#monthly-and-yearly-trends)
   - [Seasonality and Performance Patterns](#seasonality-and-performance-patterns)
   - [Product and Temporal Dynamics](#product-and-temporal-dynamics)
   - [Profit vs Revenue Over Time](#profit-vs-revenue-over-time)
-- [💡Key Insights](#key-insights)
-- [🧭Recommendations](#recommendations)
-- [👤Author](#author)
+- [Key Insights](#key-insights)
+- [Recommendations](#recommendations)
+- [Author](#author)
 
 ---
 
-## 🧰 Tools & Libraries
+## Tools & Libraries
 **Programming Language:** Python  
 
 **Core Libraries Used:**
@@ -49,7 +49,7 @@ These steps prepared the data for effective analysis of temporal trends and perf
 
 ---
 
-## 📈 Time Series Analysis
+## Time Series Analysis
 The core of this project is identifying how Retailmart’s performance evolves over time. This section summarizes the most important findings and their implications.
 
 ### Monthly and Yearly Trends
@@ -90,7 +90,7 @@ The company became **more profitable without necessarily increasing revenue**, a
 
 ---
 
-## 💡 Key Insights
+## Key Insights
 
 | **Focus Area** | **Insight** | **Business Implication** |
 |----------------|-------------|---------------------------|
@@ -101,7 +101,7 @@ The company became **more profitable without necessarily increasing revenue**, a
 
 ---
 
-## 🧭 Recommendations
+## Recommendations
 1. **Plan Ahead for Seasonality:** Prepare inventory, marketing, and staffing before peak sales months.  
 2. **Use Predictive Analytics:** Build forecasting models to estimate future sales trends based on past performance.  
 3. **Promote at Strategic Times:** Focus promotions in months that historically show lower sales to balance yearly performance.  
@@ -110,7 +110,7 @@ The company became **more profitable without necessarily increasing revenue**, a
 
 ---
 
-## 👤 Author
+## Author
 **Muhammad Abdus-Salam**  
-Data Scientist  
+Data Analyst | Aspiring Data Scientist  
 📍 Passionate about uncovering insights through time series analysis and helping businesses make smarter, data-backed decisions.
