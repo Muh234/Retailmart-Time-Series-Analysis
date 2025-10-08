@@ -10,16 +10,16 @@ Unlike traditional EDA that focuses on static relationships, this analysis looks
 
 ## Table of Contents
 - [Project Overview](#project-overview)
-- [Tools & Libraries](#tools--libraries)
+- [🧰Tools & Libraries](#tools--libraries)
 - [Data Cleaning & Preparation](#data-cleaning--preparation)
-- [Time Series Analysis](#time-series-analysis)
+- [📈Time Series Analysis](#time-series-analysis)
   - [Monthly and Yearly Trends](#monthly-and-yearly-trends)
   - [Seasonality and Performance Patterns](#seasonality-and-performance-patterns)
   - [Product and Temporal Dynamics](#product-and-temporal-dynamics)
   - [Profit vs Revenue Over Time](#profit-vs-revenue-over-time)
-- [Key Insights](#key-insights)
-- [Recommendations](#recommendations)
-- [Author](#author)
+- [💡Key Insights](#key-insights)
+- [🧭Recommendations](#recommendations)
+- [👤Author](#author)
 
 ---
 
