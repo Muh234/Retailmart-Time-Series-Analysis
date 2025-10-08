@@ -112,5 +112,4 @@ The company became **more profitable without necessarily increasing revenue**, a
 
 ## Author
 **Muhammad Abdus-Salam**  
-Data Analyst | Aspiring Data Scientist  
-📍 Passionate about uncovering insights through time series analysis and helping businesses make smarter, data-backed decisions.
+Data Scientist 
